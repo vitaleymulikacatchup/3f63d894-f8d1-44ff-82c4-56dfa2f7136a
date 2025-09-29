@@ -56,7 +56,6 @@ export default function Home() {
       <div id="footer" data-section="footer" className="scroll-mt-24">
         <GradientFooter
           items={[{ label: "Privacy Policy", onClick: () => {} }, { label: "Terms of Service", onClick: () => {} }]}
-          copyrightText="© 2023 MemePulse. All rights reserved."
         />
       </div>
     </SiteThemeProvider>
